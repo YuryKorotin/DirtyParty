@@ -52,7 +52,6 @@ p{
 	line-height:27px;
 }
 
-
 .secondary-bg{
 	background-color:#010a1c;
 }
@@ -1131,6 +1130,9 @@ section.top_banner_bg:after {
   margin-top: 100px;
 }
 
+.section_terms p {
+  color:#fff;
+}
 
 /*---------- services---------*/
 .section_heading.section_heading_2 h2 {
